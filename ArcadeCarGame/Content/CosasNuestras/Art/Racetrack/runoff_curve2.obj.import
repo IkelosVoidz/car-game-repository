@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dnjpdetr537vm"
+path="res://.godot/imported/runoff_curve2.obj-ce2e1178b758eb144d92c4b97d076e3f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/runoff_curve2.obj-ce2e1178b758eb144d92c4b97d076e3f.mesh"]
+
+source_file="res://MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/Art/Racetrack/runoff_curve2.obj"
+dest_files=["res://.godot/imported/runoff_curve2.obj-ce2e1178b758eb144d92c4b97d076e3f.mesh", "res://.godot/imported/runoff_curve2.obj-ce2e1178b758eb144d92c4b97d076e3f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
