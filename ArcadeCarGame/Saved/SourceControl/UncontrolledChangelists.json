@@ -6,7 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/GDDV/MOTORS/ArcadeCarGame/Content/CosasNuestras/Blueprints/GameStates/BP_RaceGameMode.uasset",
-				"C:/GDDV/MOTORS/ArcadeCarGame/Content/CosasNuestras/Blueprints/Controllers/BaseVehicleController.uasset"
+				"C:/GDDV/MOTORS/ArcadeCarGame/Content/CosasNuestras/Blueprints/Controllers/BaseVehicleController.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Menu/LevelSelector/S_LevelUIInfo.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Menu/LevelSelector/S_LevelInfo_UI.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Menu/LevelSelector/WBP_LevelSelector.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Menu/LevelSelector/WBP_LevelInstance.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Common/WBP_BaseButton.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Menu/WBP_PauseMenu.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Common/WBP_BaseText.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Common/WBP_BasePanel.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Layout/WBP_PrimaryLayout.uasset"
 			]
 		}
 	]
