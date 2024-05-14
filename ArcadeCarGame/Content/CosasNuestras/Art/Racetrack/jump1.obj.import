@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bjnmu6ujk4rrb"
+path="res://.godot/imported/jump1.obj-a4e1b348b76be5e0313e3a5387a94267.mesh"
+
+[deps]
+
+files=["res://.godot/imported/jump1.obj-a4e1b348b76be5e0313e3a5387a94267.mesh"]
+
+source_file="res://MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/Art/Racetrack/jump1.obj"
+dest_files=["res://.godot/imported/jump1.obj-a4e1b348b76be5e0313e3a5387a94267.mesh", "res://.godot/imported/jump1.obj-a4e1b348b76be5e0313e3a5387a94267.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

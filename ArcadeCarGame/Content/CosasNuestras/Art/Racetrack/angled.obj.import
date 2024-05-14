@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://baqhxcvfleox4"
+path="res://.godot/imported/angled.obj-9f1c857ce13ef643915e6fd45156f0de.mesh"
+
+[deps]
+
+files=["res://.godot/imported/angled.obj-9f1c857ce13ef643915e6fd45156f0de.mesh"]
+
+source_file="res://MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/Art/Racetrack/angled.obj"
+dest_files=["res://.godot/imported/angled.obj-9f1c857ce13ef643915e6fd45156f0de.mesh", "res://.godot/imported/angled.obj-9f1c857ce13ef643915e6fd45156f0de.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
