@@ -15,7 +15,9 @@
 				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Menu/WBP_PauseMenu.uasset",
 				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Common/WBP_BaseText.uasset",
 				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Common/WBP_BasePanel.uasset",
-				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Layout/WBP_PrimaryLayout.uasset"
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Layout/WBP_PrimaryLayout.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Menu/WBP_TitleScreen.uasset",
+				"C:/GDDV/MOTORS/car-game-repository/ArcadeCarGame/Content/CosasNuestras/UI/Layout/WBP_Layer.uasset"
 			]
 		}
 	]
